@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:\C:\Users\ekt\Documents\Practica5_a1800631\ejemplo1.xsl"?>
+<libros>
+ <libro>
+    <titulo>PERFECTOS MENTIROSOS</titulo>
+    <autor>ALEX MIREZ</autor>
+    <editorial>PENGUIN</editorial>
+    <paginas>332</paginas>
+  </libro>
+   <libro>
+    <titulo>CORALINE </titulo>
+    <autor>NEIL GAIMAN</autor>
+    <editorial>SALAMANDRA</editorial>
+    <paginas>155</paginas>
+  </libro>
+   <libro>
+    <titulo>DEMIAN</titulo>
+    <autor>HERMANN HESSE</autor>
+    <editorial>EDITORES MEXICANOS UNIDOS</editorial>
+    <paginas>185</paginas>
+  </libro>
+  <libro>
+    <titulo>CAZADORES DE SOMBRAS CIUDAD DE HUESOS</titulo>
+    <autor>CASSANDRA CLARE</autor>
+    <editorial>DESTINO</editorial>
+    <paginas>505</paginas>
+  </libro>
+   <libro>
+    <titulo>CAZADORES DE SOMBRAS CUIDAD DE CENIZA</titulo>
+    <autor>CASSANDRA CLARE</autor>
+    <editorial>DESTINO</editorial>
+    <paginas>454</paginas>
+  </libro>
+   </libros>
+  
